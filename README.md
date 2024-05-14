@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratham Jindal</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A machine learning and data science enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pratham-Jindal&label=Profile%20views&color=0e75b6&style=flat" alt="Pratham-Jindal" /> </p>
 
